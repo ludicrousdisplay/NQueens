@@ -1,3 +1,5 @@
+<img src="NQueens/img/board.svg" width="100" style="margin-bottom:15px" />
+
 # NQueens
 solution to n-queens layout with additional constraint
 
